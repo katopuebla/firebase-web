@@ -4,7 +4,7 @@ As User,
 I want to add user,
 So that I can increment my list.
 
-Sceneario: User add
+Scenario: User add
 
 Given go user firebase web
 When add first name Pedro
